@@ -18,7 +18,6 @@ export default function Landing() {
               {[
                 ['HOME', '/'],
                 ['TEAM', '/founders'],
-                ['PROJECTS', '/projects'],
 
               ].map(([label, href]) => (
                 <Link 
