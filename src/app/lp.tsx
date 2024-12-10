@@ -18,6 +18,8 @@ export default function Landing() {
               {[
                 ['HOME', '/'],
                 ['TEAM', '/founders'],
+                ['PROJECTS', '/projects'],
+
               ].map(([label, href]) => (
                 <Link 
                   key={label}
@@ -59,6 +61,7 @@ export default function Landing() {
               {[
                 ['TEAM', '/founders'],
                 ['CONNECT', 'https://calendly.com/mika-banterbot'],
+                ['PROJECTS', '/projects'],
               ].map(([label, href], i) => (
                 <Link 
                   key={label}
