@@ -15,7 +15,7 @@ const founders = [
   {
     name: "Cameron Norfleet",
     role: "CTO",
-    bio: "Cameron Norfleet is a Software Engineer, and product leader. He co-founded our company with a mission to optimize consumer technology industries.",
+    bio: "Cameron Norfleet is a developer, and product leader. He co-founded our company with a mission to optimize consumer technology industries.",
     linkedin: "https://www.linkedin.com/in/cameron-norfleet-b42885162/",
     twitter: "https://x.com/camfleety"
   }
